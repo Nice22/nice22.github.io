@@ -10,8 +10,25 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
     <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <meta name="description" content="SwaggerUI" />
+    <link rel="stylesheet" href="/swagger-ui/swagger-ui.css" />
 </head>
 <body>
+<!-- ////////////////////////////////////////////////////////////////////////////////////////
+                               START SECTION 0 - Swagger  
+/////////////////////////////////////////////////////////////////////////////////////////////-->
+
+  <div id="swagger-ui"></div>
+  <script src="/swagger-ui/swagger-ui-bundle.js" crossorigin></script>
+  <script>
+    window.onload = () => {
+      window.ui = SwaggerUIBundle({
+        url: 'https://petstore3.swagger.io/api/v3/openapi.json',
+        dom_id: '#swagger-ui',
+      });
+    };
+  </script>
+
 <!-- ////////////////////////////////////////////////////////////////////////////////////////
                                START SECTION 1 - THE NAVBAR SECTION  
 /////////////////////////////////////////////////////////////////////////////////////////////-->
@@ -30,11 +47,11 @@
           <li class="nav-item"><a class="nav-link" href="#testimonials">Testimonials</a></li>
           <li class="nav-item"><a class="nav-link" href="#faq">faq</a></li>
           <li class="nav-item"><a class="nav-link" href="#portfolio">portfolio</a></li>
-          <li class="nav-item"><a class="nav-link" href="#contact">contact</a>
+          <li class="nav-item"><a class="nav-link" href="#https://wa.me/message/ODLFF4IXLAOLI1">Contact</a>
           </li>
         </ul>
         <button type="button" class="rounded-pill btn-rounded">
-          +1 728365413
+          +229 66595734
           <span>
             <i class="fas fa-phone-alt"></i>
           </span>
@@ -55,12 +72,20 @@
         <h1 class="display-2">
           <span class="display-2--intro">Hey!, I'm Nicétas HOUESSOU</span>
           <span class="display-2--description lh-base">
-            this is a multi-purpose responsive layout created with bootstrap v5. 
-            (here your can place your description text)
+            <p>
+              Je suis passionné de robotique et d'électrotechnique, et je m'immerge également dans le monde fascinant des mangas et de la culture asiatique.
+              Avec une licence en électrotechnique en poche et ma certification d'ingénieur logiciel Backend en cours à ALX Africa, je jongle entre les fils électriques et les lignes de code avec enthousiasme.
+              Mon humour et ma créativité sont mes alliés dans ce monde technologique, où je m'efforce d'innover et de repousser les limites.
+              Dans mes moments de détente, j'apprécie énormément plonger dans des intrigues captivantes tirées des manwhas et des mangas, cultivant ainsi mon esprit créatif.
+              Avec moi, l'avenir de la technologie est à la fois brillant, innovant et amusant !
+            </p>
           </span>
         </h1>
-        <button type="button" class="rounded-pill btn-rounded">Contact us
-          <span><i class="fas fa-arrow-right"></i></span>
+        <button type="button" class="rounded-pill btn-rounded">
+          Contact us
+          <span>
+            <i class="fas fa-arrow-right"></i>
+          </span>
         </button>
       </div>
       <!-- START THE CONTENT FOR THE VIDEO -->
