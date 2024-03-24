@@ -12,6 +12,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <meta name="description" content="SwaggerUI" />
     <link rel="stylesheet" href="/swagger-ui/swagger-ui.css" />
+    <form action="submit.php" class="row"> </form>
 </head>
 <body>
 <!-- ////////////////////////////////////////////////////////////////////////////////////////
@@ -674,15 +675,15 @@
       <div class="col-12 col-lg-6 bg-white shadow p-3">
         <div class="form w-100 pb-2">
           <h4 class="display-3--title mb-5">Start your project</h4>
-          <form action="#" class="row">
+          <form action="submit.php" class="row">
             <div class="col-lg-6 col-md mb-3">
-              <input type="text" placeholder="First Name" id="inputFirstName" class="shadow form-control form-control-lg">
+              <input type="text" placeholder="First Name" id="inputFirstName" name="first_name" class="shadow form-control form-control-lg">
             </div>
             <div class="col-lg-6 col-md mb-3">
-              <input type="text" placeholder="Last Name" id="inputLastName" class="shadow form-control form-control-lg">
+              <input type="text" placeholder="Last Name" id="inputLastName" name="last_name" class="shadow form-control form-control-lg">
             </div>
             <div class="col-lg-12 mb-3">
-              <input type="email" placeholder="email address" id="inputEmail" class="shadow form-control form-control-lg">
+              <input type="email" placeholder="email address" id="inputEmail" name="email" class="shadow form-control form-control-lg">
             </div>
             <div class="col-lg-12 mb-3">
               <textarea name="message" placeholder="message" id="message" rows="8" class="shadow form-control form-control-lg"></textarea>
