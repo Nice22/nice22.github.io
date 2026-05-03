@@ -91,13 +91,6 @@ git commit -m "chore: update portfolio 2026"
 git push origin main
 ```
 
-Le site sera live sur **https://nice22.github.io** en 1-2 minutes.
-
-### Netlify / Vercel
-
-Glisser-déposer le fichier `index.html` sur [app.netlify.com/drop](https://app.netlify.com/drop) ou [vercel.com/new](https://vercel.com/new) — déployé en 30 secondes.
-
----
 
 ## 📋 Sections & contenu
 
