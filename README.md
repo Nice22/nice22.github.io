@@ -143,5 +143,5 @@ Ce projet est personnel et propriétaire.
 ---
 
 <div align="center">
-  <sub>Conçu & développé avec soin · Abomey-Calavi, Bénin 🇧🇯</sub>
+  <sub>Conçu & développé avec soin · Cotonou, Bénin 🇧🇯</sub>
 </div>
