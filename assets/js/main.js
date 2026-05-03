@@ -200,8 +200,8 @@ document.addEventListener("DOMContentLoaded", () => {
         `Prénom : ${prenom}\nNom : ${nom}\nEmail : ${email}\nTél : ${tel || "—"}\n\n${message}`
       );
 
-      /* ⚠️  REMPLACEZ "VOTRE_EMAIL@exemple.com" par votre adresse email */
-      window.location.href = `mailto:VOTRE_EMAIL@exemple.com?subject=${subject}&body=${body}`;
+      /* ⚠️  REMPLACEZ "benothouessou74@gmail.com" par votre adresse email */
+      window.location.href = `mailto:benothouessou74@gmail.com?subject=${subject}&body=${body}`;
     });
   }
 
