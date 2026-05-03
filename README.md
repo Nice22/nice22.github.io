@@ -4,7 +4,8 @@
 
 [![Live](https://img.shields.io/badge/Live-nice22.github.io-e8a838?style=flat-square&logo=github)](https://nice22.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicétas_HOUESSOU-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicétas-houessou-a394a9139/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B229_016_659_57_34-25D366?style=flat-square&logo=whatsapp)](https://wa.me/22901665957)
+
+
 
 ---
 
