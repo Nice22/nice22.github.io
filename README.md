@@ -18,7 +18,8 @@ Portfolio personnel conçu et développé en HTML/CSS/JS pur — **zéro framewo
 - **Style** : Editorial Dark · Soft Brutalism Millennial
 - **Typographie** : Playfair Display (titres) + IBM Plex Sans (corps) + IBM Plex Mono (code/labels)
 - **Palette** : Dark slate `#090910` · Amber doré `#e8a838` · Crème `#ece9e0`
-- **Inspiration** : [mrpaterne.me](https://www.mrpaterne.me/)
+
+
 
 ---
 
