@@ -1,6 +1,6 @@
 # 🌐 Portfolio — Nicétas HOUESSOU
 
-> **Développeur Web Full-Stack & Électrotechnicien** · Abomey-Calavi, Bénin
+> **Développeur Web Full-Stack & Électrotechnicien** · Cotonou, Bénin
 
 [![Live](https://img.shields.io/badge/Live-nice22.github.io-e8a838?style=flat-square&logo=github)](https://nice22.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicétas_HOUESSOU-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicétas-houessou-a394a9139/)
