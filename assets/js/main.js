@@ -201,7 +201,7 @@ document.addEventListener("DOMContentLoaded", () => {
       );
 
       /* ⚠️  REMPLACEZ "benothouessou74@gmail.com" par votre adresse email */
-      window.location.href = `mailto:benothouessou74@gmail.com?subject=${subject}&body=${body}`;
+      window.location.href = `mailto:benothouessou74+portfolio@gmail.com?subject=${subject}&body=${body}`;
     });
   }
 
